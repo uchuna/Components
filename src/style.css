@@ -1,0 +1,43 @@
+/* * {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+} */
+
+/* h1 {
+  font-weight: 800;
+  font-size: 40px;
+} */
+
+.card {
+  background-color: #f7f7f7;
+  padding: 15px;
+  margin: 20px 0;
+  border: 1px solid;
+  border-radius: 15px;
+  max-width: 400px;
+}
+
+.card-name {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 20px auto;
+}
+
+.card-image {
+  border-radius: 50%;
+  height: 100px;
+  width: 50px;
+}
+
+.main-page {
+  max-width: 500px;
+  margin: 0 auto;
+  width: 100%;
+}
